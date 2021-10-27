@@ -15,10 +15,10 @@
 + leet dictionary
 
 #### Screenshot
-![App Image](images/app_image_01.png)
+![App Image](images/app_images_01.png)
 
 
-![App Image](images/app_image_02.png)
+![App Image](images/app_images_02.png)
 
 
 #### Maintainer
